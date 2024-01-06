@@ -1,7 +1,7 @@
 <?php
 
-/**
- * Text.php
+/! 
+!* Text.php
  *
  * @since     2002-08-03
  * @category  Library
@@ -476,3 +476,4 @@ abstract class Text extends \Com\Tecnick\Pdf\Cell
         return $pattern;
     }
 }
+ 
